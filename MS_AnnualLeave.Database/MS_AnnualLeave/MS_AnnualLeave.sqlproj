@@ -66,5 +66,6 @@
     <Build Include="dbo\EmployeeRole.sql" />
     <Build Include="dbo\EmployeeAddress.sql" />
     <Build Include="dbo\EmployeeLeave.sql" />
+    <Build Include="dbo\GetEmployees.sql" />
   </ItemGroup>
 </Project>
